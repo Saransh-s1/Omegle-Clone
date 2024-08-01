@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^22.0.2",
+    "@types/socket.io": "^3.0.2",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
